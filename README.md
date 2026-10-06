@@ -4,6 +4,8 @@
 
 ## 安装
 
+配套网页工程：[DigitalLab · 实验室设备档案](https://github.com/Yabaisaka/DigitalLab)。生成的 JSON 可在设备编辑页预览并导入，统一填写多套 SOP、使用前提示和标签短提示。
+
 使用支持 skills 的 agent，可通过 Skills CLI 从本仓库安装：
 
 ```bash
